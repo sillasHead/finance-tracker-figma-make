@@ -1,0 +1,10 @@
+{
+  "description": "Organize accounts, cards, transactions, budgets and savings goals in one intuitive finance app designed for people in Brazil.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
